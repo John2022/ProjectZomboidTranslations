@@ -1,5 +1,7 @@
 Recipe_FR = {
 ---
+Recipe_Generator = "Entretien du générateur",
+Recipe_Herbalist = "Remèdes aux plantes",
 Recipe_Saw Logs2 = "Débiter en planches",
 ---
 Recipe_Make_Campfire_Kit = "Fabriquer un kit pour feu de camp",
